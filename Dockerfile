@@ -1,5 +1,4 @@
 #
-# Jugal Kishore -- 2020
 #
 # Docker Image all about networking
 #
