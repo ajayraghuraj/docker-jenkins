@@ -3,7 +3,7 @@
 # Docker Image all about networking
 #
 # Base Image: Ubuntu
-FROM ubuntu:latest
+FROM ubuntu:kinetic
 
 # Setting Non-Interactive Build Time Environment Variable
 ARG DEBIAN_FRONTEND=noninteractive
